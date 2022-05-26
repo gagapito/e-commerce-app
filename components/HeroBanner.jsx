@@ -7,19 +7,14 @@ const HeroBanner = ({ heroBanner: { largeText1, smallText, midText, product, but
   return (
     <div className='hero-banner-container'>
       <div>
-        <p className='beats-solo'>{smallText}</p>
+        <p className='text-container'>{smallText}</p>
         <h3>{midText}</h3>
         <h1>{largeText1}</h1>
         <img src={urlFor(image)} alt='shoes' className='hero-banner-image' />
-
         <div>
           <Link href={`/product/${product}`}>
             <button type='button'>{buttonText}</button>
           </Link>
-          <div className='desc'>
-            <h5>Description</h5>
-            <p>{desc}</p>
-          </div>
         </div>
       </div>
     </div>
