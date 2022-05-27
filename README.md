@@ -2,6 +2,8 @@
 
 E-commerce shop for male streetwear and designer accessories
 
+[Application Link](https://e-commerce-app-lac.vercel.app/)
+
 The concept behind this application was to incorporate my interest with a project. My personal interest in fashion/streetwear led me to come up with the idea of creating an e-commerce shop that sold all of the products I would like. Additionally, I wanted to familiarize myself with Javascript and different APIs that could be used to create this site.
 
 ## Project Infromation
@@ -17,6 +19,3 @@ Fashion Boyz has all the functionality of an e-commerce website:
 - Checkout feature that allows users to pick shipping information and use online payment methods to purchase the products
 - Checkout supports international shipping
 - Success page that confirms when the item has been bought and if you would like to continue shopping still
-
-## Application Link
-https://e-commerce-app-lac.vercel.app/
